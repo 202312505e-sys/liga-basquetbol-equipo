@@ -45,4 +45,5 @@ La documentación técnica está en `doc/practica_liga.md` y los diagramas en `d
 
 ## Estado
 
-Versión final de la práctica.
+Versión final de la práctica calidicada personal.
+En progreso versión V.1.1.0 de la práctica calidicada en equipo.
